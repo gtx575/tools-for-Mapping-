@@ -48,6 +48,21 @@ The excess data manipulation step for more control for the user is provide .
   after Search for the key words , input it into the Caribou in text form.
 ![image (4)](https://user-images.githubusercontent.com/51291536/138327915-898f4904-ce0b-4437-8207-e017b959bc98.png)
 
+ 
+
+The Chart moduels 
+
+ 
+  ![image (11)](https://user-images.githubusercontent.com/51291536/138490029-198f19ca-eb7f-49a1-af28-7ab1e26fb0e5.png)
+
+ 
+ When replaced with your own OSM file,the first horizontal bar chart will display the numbers of the S,M,L three different sizes of parks within the city.
+The Pie Chart demonstrates the percentage of those three different categorie
+ 
+ 
+ ![image (10)](https://user-images.githubusercontent.com/51291536/138489941-d53200fc-b018-4315-a728-6dccef4916cc.png)
+
+ 
  ## **How to Use**
   
 the Path finding options  drawn data from specified osm data.
