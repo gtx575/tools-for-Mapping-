@@ -6,7 +6,10 @@ This mapping tool is built with Grasshopper plugin associated with the usage of 
 The Green Field Indicator is a under developing tools for the visualization of the public parks within the Urban context.  Its primary goal is to provide the visualization of the green parks density in the designated area.
 
 On top of that , currently it also could at the given parameters to draw and analyzed the serviced range of the parks, highlighting the surrounding buildings.
- 
+
+ #Final Update. v 1.o
+ ![image](https://user-images.githubusercontent.com/51291536/138485094-f6780e4a-89bb-4dc4-9474-b34a892ea177.png)
+
   ![image](https://user-images.githubusercontent.com/51291536/138421729-93c4022f-9eac-4222-8a01-4a1a6372ec65.png)
   
  V 0.4 Updated - add new path finding function.
