@@ -32,6 +32,9 @@ In order to commence using the tool
 
 The tool using series of mapping components to illustrate the parks and its surround neighborhood range.
 
+ ![01](https://user-images.githubusercontent.com/51291536/138489593-bfdee799-3664-4868-a5c3-56bc82efe3a2.png)
+
+ 
 The excess data manipulation step for more control for the user is provide .
 ![image (2)](https://user-images.githubusercontent.com/51291536/138327172-2869ad01-e60c-4dbe-b8a5-5ca7e6954901.png)
 * the work flow of the Caribou is stated here at [https://caribou.philipbelesky.com/]
