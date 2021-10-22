@@ -88,3 +88,16 @@ Links to the video walkthough for genaral overview -https://youtu.be/eUdqS67mJ1I
  https://youtu.be/nz6FxfldtVg
  
 ![image](https://user-images.githubusercontent.com/51291536/138487923-4478ef7c-897b-41a3-bf31-aad80fa7d279.png)
+
+ 
+ Reference
+ 
+ Hurkxkens, I. and Bernard, M., 2019. Computational terrain modeling with distance functions for large scale landscape design. Journal of Digital Landscape Architecture, 2019(4), pp.222-230.
+
+Giles-Corti, B., Broomhall, M.H., Knuiman, M., Collins, C., Douglas, K., Ng, K., Lange, A. and Donovan, R.J., 2005. Increasing walking: how important is distance to, attractiveness, and size of public open space?. American journal of preventive medicine, 28(2), pp.169-176.
+
+Esri. 2019. Cool maps , Esri . viewed on 25, sep 2021.<[https://coolmaps.esri.com/#3](https://coolmaps.esri.com/#3)>
+
+[https://caribou.philipbelesky.com/](https://caribou.philipbelesky.com/)
+
+[https://www.food4rhino.com/en/app/human](https://www.food4rhino.com/en/app/human)
