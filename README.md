@@ -48,5 +48,25 @@ The excess data manipulation step for more control for the user is provide .
  ## **How to Use**
   
 the Path finding options  drawn data from specified osm data.
-  
+
+ Overview - How to use the tool 
+ ![image](https://user-images.githubusercontent.com/51291536/138487007-fccaf6f5-78b6-498d-a06f-93e9ef063989.png)
+ 
+ 
+Links to the video walkthough for genaral overview -https://youtu.be/eUdqS67mJ1I
+ 
+ 
   ![image](https://user-images.githubusercontent.com/51291536/138422524-8dcf1bc6-7ca7-4734-9dc4-6b021a651a78.png)
+ 
+ 
+ For User interactive parameter - the Coastline /Beach line switch video links below
+ https://youtu.be/iF69MMferlY
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/51291536/138487292-d7019445-4cf2-4e0c-9cce-dc5184d69bc0.png)
+
+ 
+ For Further tweaking the Designated Park Size which were paticipate in the Shortest path calculation .
+ https://youtu.be/nz6FxfldtVg
+ 
+![image](https://user-images.githubusercontent.com/51291536/138487923-4478ef7c-897b-41a3-bf31-aad80fa7d279.png)
